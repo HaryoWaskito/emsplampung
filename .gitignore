@@ -1,0 +1,46 @@
+# ASP.NET Core / .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.psess
+*.vspx
+*.vspscc
+*.vssscc
+*.cache
+*.pdb
+
+# Rider
+.idea/
+
+# Build output
+dist/
+build/
+tmp/
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.bak
+*.swp
+*.tmp

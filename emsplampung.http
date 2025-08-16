@@ -1,0 +1,6 @@
+@emsplampung_HostAddress = http://localhost:5039
+
+GET {{emsplampung_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
